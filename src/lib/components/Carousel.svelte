@@ -1,8 +1,8 @@
 <script lang="ts">
   const images = [
-    "/generated/image-interior-of-commercial-greenhouse-with-r-1765573285070-1.webp",
-    "/generated/image-delivery-trucks-at-loading-dock-of-green-1765573289800-2.webp",
-    "/generated/image-close-up-of-healthy-vibrant-flowering-pl-1765573293312-3.webp"
+    "/uploaded/1765574298670-odxpbo2.jpg",
+    "/uploaded/1765574298669-tc7txg8.jpg",
+    "/uploaded/1765574298670-k0lrbgu.jpg"
   ];
 </script>
 

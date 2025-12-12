@@ -23,7 +23,7 @@
           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
         </button>
       </div>
-      <img src="/generated/image-variety-of-specialty-flowering-cultivars-1765573311002-8.webp" class="h-[80%] object-contain" alt="Plant varieties" />
+      <img src="/uploaded/1765574298669-e5m8u5w.jpg" class="w-full h-full object-cover" alt="Plant varieties" />
     </div>
 
     <!-- Color Options -->

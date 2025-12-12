@@ -3,7 +3,7 @@
 
 <section class="relative h-[600px] w-full overflow-hidden">
   <img 
-    src="/generated/image-close-up-of-healthy-vibrant-flowering-pl-1765573293312-3.webp" 
+    src="/uploaded/1765574298669-tc7txg8.jpg" 
     alt="Vibrant flowering plants" 
     class="w-full h-full object-cover"
   />

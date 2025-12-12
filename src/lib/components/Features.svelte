@@ -19,7 +19,7 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="/generated/image-quality-control-inspection-of-flowering--1765573303158-6.webp" 
+            src="/uploaded/1765574298670-p2ksf3v.jpg" 
             alt="Quality control" 
             class="w-full h-full object-cover"
           />
@@ -34,7 +34,7 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="/generated/image-greenhouse-workers-tending-to-flowering--1765573299839-5.webp" 
+            src="/uploaded/1765574298670-pfdu6ea.jpg" 
             alt="Expert cultivation" 
             class="w-full h-full object-cover"
           />

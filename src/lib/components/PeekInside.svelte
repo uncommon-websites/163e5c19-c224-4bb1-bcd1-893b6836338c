@@ -3,7 +3,7 @@
 
 <section class="relative h-[600px] w-full bg-gray-900 overflow-hidden">
   <img 
-    src="/generated/image-interior-of-commercial-greenhouse-with-r-1765573285070-1.webp" 
+    src="/uploaded/1765574298670-odxpbo2.jpg" 
     alt="Inside our greenhouses" 
     class="w-full h-full object-cover opacity-80"
   />

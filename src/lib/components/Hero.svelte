@@ -31,7 +31,7 @@
   <!-- Hero Image -->
   <div class="w-full h-[600px] bg-gray-200 overflow-hidden relative">
     <img 
-      src="/generated/image-large-modern-commercial-greenhouse-facil-1765573280903-0.webp" 
+      src="/uploaded/1765574298670-odxpbo2.jpg" 
       alt="Pleasant Valley Farms Greenhouse Facility" 
       class="w-full h-full object-cover"
     />

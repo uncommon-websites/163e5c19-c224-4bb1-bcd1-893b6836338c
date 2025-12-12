@@ -28,28 +28,28 @@
   <!-- Footer Grid -->
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-24">
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="/generated/image-organized-rows-of-colorful-flowering-pla-1765573307245-7.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Greenhouse tour" />
+      <img src="/uploaded/1765574298670-odxpbo2.jpg" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Greenhouse tour" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
         <p class="text-white text-lg font-light">Tour our greenhouses.<br>Schedule a visit -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="/generated/image-delivery-trucks-at-loading-dock-of-green-1765573289800-2.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Distribution network" />
+      <img src="/uploaded/1765574298670-p2ksf3v.jpg" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Distribution network" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
         <p class="text-white text-lg font-light">Regional distribution.<br>See our network -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="/generated/image-variety-of-specialty-flowering-cultivars-1765573311002-8.webp" class="w-full h-full object-cover bg-white transition-transform duration-700 group-hover:scale-105" alt="Plant catalog" />
-      <div class="absolute inset-0 bg-black/5 p-6 flex items-start">
-        <p class="text-gray-900 text-lg font-light">Browse our catalog.<br>View cultivars -></p>
+      <img src="/uploaded/1765574298669-e5m8u5w.jpg" class="w-full h-full object-cover bg-white transition-transform duration-700 group-hover:scale-105" alt="Plant catalog" />
+      <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
+        <p class="text-white text-lg font-light">Browse our catalog.<br>View cultivars -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="/generated/image-sustainable-greenhouse-with-modern-growi-1765573314220-9.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Sustainable practices" />
+      <img src="/uploaded/1765574298670-k0lrbgu.jpg" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Sustainable practices" />
       <div class="absolute inset-0 bg-[oklch(0.696_0.17_162.48)]/80 p-6 flex items-start">
         <p class="text-white text-lg font-light">Sustainable growing.<br>Learn more -></p>
       </div>
